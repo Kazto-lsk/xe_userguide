@@ -14,7 +14,6 @@
     * [심플 페이지 추가 / 삭제 / 설정](k_userguide/k_sitemap/k_simplepage.md)
     * [위젯 페이지 추가 / 삭제 / 설정](k_userguide/k_sitemap/k_widget.md)
   * [회원 설정 및 관리](k_userguide/k_member/README.md)
-    * [관리자 비밀번호 설정](k_userguide/k_member/k_superadmin.md)
     * [소셜 로그인 연동 / 추가 / 설정](k_userguide/k_member/k_social.md)
     * [회원 정보 수정 / 거부 / 삭제](k_userguide/k_member/k_memberedit.md)
   * [컨텐츠 관리 및 신고 집계](k_userguide/k_content/README.md)
