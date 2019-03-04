@@ -23,17 +23,9 @@ FTP는 FileZila 를 사용해서 설명합니다. FileZila 는 무료로 사용�
 
 > 권한 설정할 때 `하위 디렉터리로 이동`, `모든 파일과 디렉터리에 적용` 을 반드시 체크해 주세요.
 
-### 1. bootstrap/cache 디렉토리 권한 설정
+### 1. bootstrap/cache, config/production, storage
 
-_이미지_
-
-### 2. config/production 디렉토리 권한 설정
-
-_이미지_
-
-### 3. storage 디렉토리 권한 설정
-
-_이미지_
+상단의 폴더들을 707 권한으로 변경해주세요.
 
 ## 웹 인스톨러 실행
 

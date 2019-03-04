@@ -20,5 +20,6 @@
       * [게시물 관리](ko/k_userguide/k_content/k_boardlist.md)
       * [댓글 관리](ko/k_userguide/k_content/k_commentlist.md)
       * [신고 집계 및 관리](ko/k_userguide/k_content/k_declarelist.md)
-* [English Contents](english-contents.md)
+* [English Contents](english-contents/README.md)
+  * [Installation](english-contents/installation.md)
 
