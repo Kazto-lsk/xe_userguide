@@ -1,4 +1,4 @@
-# Installation
+# Install on server
 
 ### Installation Guide
 

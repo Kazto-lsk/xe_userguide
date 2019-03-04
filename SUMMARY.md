@@ -21,5 +21,7 @@
       * [댓글 관리](ko/k_userguide/k_content/k_commentlist.md)
       * [신고 집계 및 관리](ko/k_userguide/k_content/k_declarelist.md)
 * [English Contents](english-contents/README.md)
-  * [Installation](english-contents/installation.md)
+  * [Installation](english-contents/installation-1/README.md)
+    * [Install on server](english-contents/installation-1/installation.md)
+    * [Update](english-contents/installation-1/update.md)
 
