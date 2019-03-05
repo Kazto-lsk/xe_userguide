@@ -21,6 +21,7 @@
         * [게시물 관리](list/ko/k_userguide/k_content/k_boardlist.md)
         * [댓글 관리](list/ko/k_userguide/k_content/k_commentlist.md)
         * [신고 집계 및 관리](list/ko/k_userguide/k_content/k_declarelist.md)
+      * [플러그인 설치 / 업데이트](list/ko/k_userguide/undefined.md)
   * [English Contents](list/english-contents/README.md)
     * [Installation](list/english-contents/installation-1/README.md)
       * [Install on server](list/english-contents/installation-1/installation.md)
