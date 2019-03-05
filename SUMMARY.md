@@ -23,6 +23,7 @@
         * [신고 집계 및 관리](list/ko/k_userguide/k_content/k_declarelist.md)
       * [플러그인 설치 / 업데이트](list/ko/k_userguide/undefined.md)
       * [기본 테마 설정](list/ko/k_userguide/undefined-1.md)
+      * [기본 테마 설정](list/ko/k_userguide/undefined-1-1.md)
     * [관리자 접근 권한](list/ko/undefined/README.md)
       * [관리 페이지 권한](list/ko/undefined/undefined.md)
       * [관리자 접근 로그](list/ko/undefined/undefined-1.md)
