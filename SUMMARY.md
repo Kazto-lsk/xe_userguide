@@ -24,6 +24,7 @@
       * [플러그인 설치 / 업데이트](list/ko/k_userguide/undefined.md)
       * [기본 테마 설정](list/ko/k_userguide/undefined-1.md)
       * [SEO 설정](list/ko/k_userguide/undefined-1-1.md)
+      * [다국어 설정](list/ko/k_userguide/undefined-2.md)
     * [관리자 접근 권한](list/ko/undefined/README.md)
       * [관리 페이지 권한](list/ko/undefined/undefined.md)
       * [관리자 접근 로그](list/ko/undefined/undefined-1.md)
