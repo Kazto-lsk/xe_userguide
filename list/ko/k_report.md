@@ -4,11 +4,11 @@ XE3가이 예상대로 설치되지 않거나 작동하지 않으면, 사용자 
 
 그런 다음 QnA와 커뮤니티를 검색하려면 몇 분이 걸릴 수 있습니다. 누군가가 이미 문제를보고했을 가능성이 있으며 해결 방법이 있거나 사용할 수 있습니다. 철저하게 검색했지만 문제에 대한 정보를 찾을 수없는 경우 문제 해결을 시작할 시간입니다.
 
-### [\#](https://flarum.org/docs/troubleshoot.html#step-1-turn-on-debug-mode)1 단계 : 디버그 모드 사용 <a id="step-1-turn-on-debug-mode"></a>
+### 1 단계 : 디버그 모드 사용 <a id="step-1-turn-on-debug-mode"></a>
 
 진행하기 전에 XE3의 디버깅 도구를 활성화해야합니다. 디버그 모드를 활성화 하기 위해서는 `config/production/app.php` 파일의 `debug` 값을 `true`로 설정해야 합니다.이를 통해 XE3는 자세한 오류 메시지를 표시하고 잘못된 점에 대한 통찰력을 제공합니다.
 
-### [\#](https://flarum.org/docs/troubleshoot.html#step-2-reproduce-the-issue)2 단계 : 문제 재현 <a id="step-2-reproduce-the-issue"></a>
+### 2 단계 : 문제 재현 <a id="step-2-reproduce-the-issue"></a>
 
 문제가 다시 일어나는 상황을 확인해보세요. 매번 일어나는가, 아니면 지금만 그런것인지, 문제에 영향을 미칠 것으로 생각되는 설정이나 작업을 수행하는 순위를 바꿔보세요. 일부 조건에서는 발생하지만 다른 조건에서는 발견되지 않을 수 있습니다.
 
@@ -16,7 +16,7 @@ XE3가이 예상대로 설치되지 않거나 작동하지 않으면, 사용자 
 
 어딘가에 따라 문제의 원인에 대한 아이디어를 얻고 문제를 해결할 수있는 방법을 찾아 낼 수 있습니다. 그러나 그러한 일이 발생하지 않더라도 버그 보고서를 제출하면 진행 상황을 파악하는 데 도움이되는 몇 가지 유용한 단서를 찾을 수 있습니다.
 
-### [\#](https://flarum.org/docs/troubleshoot.html#step-3-collect-information)3 단계 : 정보 수집 <a id="step-3-collect-information"></a>
+### 3 단계 : 정보 수집 <a id="step-3-collect-information"></a>
 
 문제를 해결하는 데 도움이 필요하면 데이터를 수집하는 것이 중요합니다. 다음 위치에서 문제에 대한 오류 메시지 또는 기타 정보를 찾으십시오.
 
@@ -24,7 +24,7 @@ XE3가이 예상대로 설치되지 않거나 작동하지 않으면, 사용자 
 * 브라우저 콘솔 \(Chrome : 기타 도구 -&gt; 개발자 도구 -&gt; 콘솔\)에 표시됩니다.
 * XE3가 직접 기록한 로그 \( `storage/logs/`\)
 
-### [\#](https://flarum.org/docs/troubleshoot.html#step-4-prepare-a-report)4 단계 : 보고서 준비 <a id="step-4-prepare-a-report"></a>
+### 4 단계 : 보고서 준비 <a id="step-4-prepare-a-report"></a>
 
 문제에 대한 모든 정보를 수집하면 버그 보고서를 제출할 준비가 된 것입니다. 버그 리포팅에 대한 지침을 따르십시오 .
 

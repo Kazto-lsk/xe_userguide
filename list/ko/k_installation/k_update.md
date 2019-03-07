@@ -1,6 +1,6 @@
 # 업데이트
 
-> 주의! XE 3.0.0-beta.23 이하에서 업데이트할 경우는 [XE 3.0.0-beta.24 업데이트 가이드](https://www.xpressengine.io/blog/XE-300-beta24-업데이트-가이드)를 참고하시기 바랍니다.
+> 주의! XE 3.0.0-beta.23 이하에서 업데이트할 경우는 [XE 3.0.0-beta.24 업데이트 가이드](https://www.xpressengine.io/blog/XE-300-beta24-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EA%B0%80%EC%9D%B4%EB%93%9C)를 참고하시기 바랍니다.
 
 XE 업데이트는 웹페이지에서 업데이트 할 수 있습니다.
 

@@ -6,7 +6,7 @@ description: '누구나 쉽게 따라하면서, 적응할 수 있는 설치 방�
 
 ### 설치 동영상
 
-이해를 돕기 위해 설치 영상을 마련했습니다. [바로가기](https://github.com/xpressengine/xpressengine-manual/tree/c7478cb51aab4433d992bac673751500bc61d523/ko/주소~/README.md)
+이해를 돕기 위해 설치 영상을 마련했습니다. [바로가기](https://www.youtube.com/watch?v=ubtggblEvuw&feature=youtu.be)
 
 ### FileZila
 
