@@ -7,7 +7,6 @@
       * [설치](list/ko/k_installation/k_install.md)
       * [업데이트](list/ko/k_installation/k_update.md)
       * [문제 해결\(디버깅\)](list/ko/k_installation/k_debug.md)
-    * [문제 보고](list/ko/k_report.md)
     * [기본 사용법](list/ko/k_userguide/README.md)
       * [사이트맵 추가 및 제거](list/ko/k_userguide/k_sitemap/README.md)
         * [게시판 추가 / 삭제 / 설정](list/ko/k_userguide/k_sitemap/k_board.md)
@@ -28,4 +27,5 @@
     * [관리자 접근 권한](list/ko/administrator_setting/README.md)
       * [관리 페이지 권한](list/ko/administrator_setting/manage_page_permission.md)
       * [관리자 접근 로그](list/ko/administrator_setting/admin_page_log.md)
+    * [문제 보고](list/ko/k_report.md)
 

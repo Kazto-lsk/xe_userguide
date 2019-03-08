@@ -19,7 +19,6 @@ XE3를 사용하려면 아래의 기능이 필요합니다.
   * OpenSSL PHP Extension
   * Zip PHP Extension
 * MariaDB or MySQL 5.1 이상
-* 터미널 접속 환경
 * 디스크 300M 이상의 여유 공간
   * 500M 이상 권장
 
