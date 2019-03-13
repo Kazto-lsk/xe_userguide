@@ -21,9 +21,9 @@
 
 관리자 &gt; 사이트 맵&gt; 사이트 메뉴 편집에서 `아이템 제거` 기능으로 외부페이지를 삭제할 수 있습니다. 외부 페이지 삭제는 아래 순서로 가능합니다.
 
-![&#xC0AD;&#xC81C;&#xD560; &#xC678;&#xBD80;&#xD398;&#xC774;&#xC9C0;&#xC758; &#xC774;&#xB984;&#xC744; &#xD074;&#xB9AD;&#xD55C; &#xD6C4;, &#xC0C1;&#xB2E8;&#xC758; &#xC544;&#xC774;&#xD15C; &#xC0AD;&#xC81C;&#xD558;&#xAE30;&#xB97C; &#xD074;&#xB9AD;&#xD569;&#xB2C8;&#xB2E4;.](../../../../.gitbook/assets/del1.PNG)
+![&#xC0AD;&#xC81C;&#xD560; &#xC678;&#xBD80;&#xD398;&#xC774;&#xC9C0;&#xC758; &#xC774;&#xB984;&#xC744; &#xD074;&#xB9AD;&#xD55C; &#xD6C4;, &#xC0C1;&#xB2E8;&#xC758; &#xC544;&#xC774;&#xD15C; &#xC0AD;&#xC81C;&#xD558;&#xAE30;&#xB97C; &#xD074;&#xB9AD;&#xD569;&#xB2C8;&#xB2E4;.](../../../../.gitbook/assets/del1%20%281%29.PNG)
 
 ![&#xC0AD;&#xC81C;&#xD558;&#xBA74;&#xC11C; &#xC0DD;&#xAE30;&#xB294; &#xBB38;&#xC81C;&#xC640; &#xC720;&#xC758;&#xC0AC;&#xD56D;&#xC5D0; &#xB3D9;&#xC758;&#xD55C;&#xB2E4;&#xBA74; &#xC0AD;&#xC81C; &#xBC84;&#xD2BC;&#xC744; &#xD074;&#xB9AD;&#xD574;&#xC8FC;&#xC138;&#xC694;](../../../../.gitbook/assets/del2.PNG)
 
-![&#xC678;&#xBD80; &#xD398;&#xC774;&#xC9C0; &#xC0AD;&#xC81C;&#xAC00; &#xC644;&#xB8CC;&#xB418;&#xC5C8;&#xC2B5;&#xB2C8;&#xB2E4;!](../../../../.gitbook/assets/del3.PNG)
+![&#xC678;&#xBD80; &#xD398;&#xC774;&#xC9C0; &#xC0AD;&#xC81C;&#xAC00; &#xC644;&#xB8CC;&#xB418;&#xC5C8;&#xC2B5;&#xB2C8;&#xB2E4;!](../../../../.gitbook/assets/del3%20%281%29.PNG)
 
