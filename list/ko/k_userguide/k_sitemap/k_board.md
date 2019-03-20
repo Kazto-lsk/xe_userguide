@@ -4,17 +4,7 @@
 
 관리자 &gt; 사이트 맵&gt; 사이트 메뉴 편집에서 `아이템 추가` 기능으로 게시판을 추가해서 사용합니다. 게시판 추가는 아래 순서로 가능합니다.
 
-![&#xAD00;&#xB9AC;&#xC790; &#xC0AC;&#xC774;&#xD2B8; &amp;gt; &#xC0AC;&#xC774;&#xD2B8;&#xB9F5; &amp;gt; &#xC0AC;&#xC774;&#xD2B8; &#xBA54;&#xB274; &#xD3B8;&#xC9D1;&#xC5D0; &#xC788;&#xB294; &#xAC8C;&#xC2DC;&#xD310; &#xCD94;&#xAC00;&#xB97C; &#xC6D0;&#xD558;&#xB294; &#xBA54;&#xB274;&#xC5D0;&#xC11C; &#xC544;&#xC774;&#xD15C; &#xCD94;&#xAC00;&#xB97C; &#xD074;&#xB9AD;](../../../../.gitbook/assets/add1.PNG)
-
-![XE Board &#xBAA8;&#xB4C8;&#xC744; &#xD074;&#xB9AD;&#xD55C; &#xD6C4;, &#xB2E4;&#xC74C;&#xC73C;&#xB85C; &#xC774;&#xB3D9;&#xD574;&#xC8FC;&#xC138;&#xC694;.](../../../../.gitbook/assets/add2.PNG)
-
-![Item URL&#xACFC; &#xC774;&#xB984;, &#xC124;&#xBA85;&#xC744; &#xC785;&#xB825;&#xD574;&#xC8FC;&#xC138;&#xC694;.](../../../../.gitbook/assets/add3.PNG)
-
-![&#xB9C8;&#xC9C0;&#xB9C9;&#xC73C;&#xB85C; &#xD14C;&#xB9C8;&#xB97C; &#xC9C0;&#xC815;&#xD574;&#xC8FC;&#xACE0; &#xB4F1;&#xB85D; &#xBC84;&#xD2BC;&#xC744; &#xB204;&#xB974;&#xBA74;?](../../../../.gitbook/assets/add3_1.PNG)
-
-![&#xB0B4;&#xAC00; &#xB9CC;&#xB4E0; &#xBA54;&#xB274;&#xAC00; &#xC9DC;&#xC794;!](../../../../.gitbook/assets/add4.PNG)
-
-![&#xB9CC;&#xC57D; &#xD14C;&#xB9C8;&#xC5D0; &#xAC8C;&#xC2DC;&#xD310;&#xC774; &#xC5F0;&#xACB0;&#xB418;&#xC5B4; &#xC788;&#xB2E4;&#xBA74;, &#xC704; &#xBA54;&#xB274;&#xBC14;&#xC5D0; &#xD655;&#xC778;&#xD560; &#xC218; &#xC788;&#xB2F5;&#xB2C8;&#xB2E4; :\)](../../../../.gitbook/assets/all.PNG)
+![&#xAC8C;&#xC2DC;&#xD310; &#xB9CC;&#xB4DC;&#xB294; &#xBC29;&#xBC95; &#xCC38; &#xC27D;&#xC8E0;?](../../../../.gitbook/assets/make_board.gif)
 
 ## 게시판을 삭제하는 방법
 
@@ -22,25 +12,13 @@
 
 관리자 &gt; 사이트 맵&gt; 사이트 메뉴 편집에서 `아이템 제거` 기능으로 게시판을 삭제할 수 있습니다. 게시판 삭제는 아래 순서로 가능합니다.
 
-![&#xC0AD;&#xC81C;&#xD560; &#xC815;&#xB4E0; &#xAC8C;&#xC2DC;&#xD310;&#xC758; ID&#xAC00; &#xC544;&#xB2CC; &#xC774;&#xB984;&#xC744; &#xD074;&#xB9AD;&#xD574;&#xC8FC;&#xC138;&#xC694;.](../../../../.gitbook/assets/delete1.PNG)
-
-![&#xD074;&#xB9AD; &#xD6C4; &#xB098;&#xC624;&#xB294; &#xD398;&#xC774;&#xC9C0;&#xC758; &#xC0C1;&#xB2E8;&#xC758; &#xC544;&#xC774;&#xD15C; &#xC0AD;&#xC81C;&#xD558;&#xAE30;&#xB97C; &#xD074;&#xB9AD;&#xD574;&#xC8FC;&#xC138;&#xC694;.](../../../../.gitbook/assets/delete2.PNG)
-
-![&#xC815;&#xB9D0; &#xC0AD;&#xC81C;&#xD558;&#xACE0; &#xC2F6;&#xB2E4;&#xBA74;.. &#xC0AD;&#xC81C;&#xB97C; &#xB20C;&#xB7EC;&#xC8FC;&#xC138;&#xC694;, &#xB418;&#xB3CC;&#xC774;&#xD0AC; &#xC218; &#xC5C6;&#xC73C;&#xB2C8; &#xC2E0;&#xC911;&#xD558;&#xAC8C; &#xC0DD;&#xAC01;&#xD574;&#xC8FC;&#xC138;&#xC694;.](../../../../.gitbook/assets/delete3.PNG)
-
-![&#xAC8C;&#xC2DC;&#xD310;&#xC774; &#xC0AD;&#xC81C;&#xB418;&#xC5C8;&#xC2B5;&#xB2C8;&#xB2E4;. Good Bye.](../../../../.gitbook/assets/delete4.PNG)
+![&#xAC8C;&#xC2DC;&#xD310; &#xC9C0;&#xC6B0;&#xB294; &#xBC29;&#xBC95;&#xB3C4; &#xAC04;&#xB2E8;&#xD574;&#xC694;.](../../../../.gitbook/assets/delete_board.gif)
 
 ## 권한을 설정하는 방법
 
 게시판에 쓰기/읽기/리스트조회/관리자 권한을 부여하거나 제한할 수 있습니다.
 
-![&#xB354; &#xB9CE;&#xC740; &#xD798;&#xC744; &#xC6D0;&#xD574;!!](../../../../.gitbook/assets/power-unlimited-power-14335843.png)
-
-![&#xAD8C;&#xD55C;&#xC744; &#xC124;&#xC815;&#xD560; &#xAC8C;&#xC2DC;&#xD310; &#xC0C1;&#xB2E8;&#xC758; &#xD1B1;&#xB2C8;&#xBC14;&#xD034; &#xB610;&#xB294; &#xC124;&#xC815; &#xBC84;&#xD2BC;&#xC744; &#xD074;&#xB9AD;&#xD574;&#xC8FC;&#xC138;&#xC694;.](../../../../.gitbook/assets/power2-1.PNG)
-
-![&#xAC8C;&#xC2DC;&#xD310; &#xC124;&#xC815; &#xD0ED;&#xC5D0;&#xC11C; &#xAD8C;&#xD55C;&#xC73C;&#xB85C; &#xC774;&#xB3D9;&#xD6C4;, &#xAC01;&#xAC01;&#xC758; &#xD56D;&#xBAA9;&#xC744; &#xC785;&#xB825; &#xB610;&#xB294; &#xC120;&#xD0DD;&#xD574;&#xC8FC;&#xC138;&#xC694;.](../../../../.gitbook/assets/power3.PNG)
-
-![&#xBAA8;&#xB450; &#xB05D;&#xB0AC;&#xB2E4;&#xBA74;, &#xC800;&#xC7A5;&#xC744; &#xB204;&#xB974;&#xBA74; &#xC124;&#xC815; &#xC644;&#xB8CC;!](../../../../.gitbook/assets/power4.PNG)
+![&#xC9C0;&#xAE08; &#xBCF4;&#xC5EC;&#xC900; &#xC124;&#xC815; &#xC774;&#xC678;&#xC5D0;&#xB3C4; &#xC5EC;&#xB7EC;&#xAC00;&#xC9C0; &#xC870;&#xD569;&#xC774; &#xAC00;&#xB2A5;&#xD558;&#xB2F5;&#xB2C8;&#xB2E4;.](../../../../.gitbook/assets/board_permission.gif)
 
 ## 토글메뉴 관리
 
