@@ -11,7 +11,9 @@ description: '누구나 쉽게 따라하면서, 적응할 수 있는 설치 방�
 
 ### 설치 동영상
 
-이해를 돕기 위해 설치 영상을 마련했습니다. [바로가기](https://www.youtube.com/watch?v=ubtggblEvuw&feature=youtu.be)
+이해를 위해 짧은 이미지를 준비했습니다.
+
+![&#xC124;&#xCE58;&#xB97C; &#xC704;&#xD55C; &#xBAA8;&#xB4E0; &#xB2E8;&#xACC4;&#xB97C; &#xB2F4;&#xACE0; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;. &#xCC38;&#xACE0;&#xD574;&#xC8FC;&#xC138;&#xC694; &#x3147;\_&amp;lt;](../../../.gitbook/assets/install_xe.gif)
 
 ### FileZila
 
@@ -24,6 +26,8 @@ FTP는 FileZila 를 사용해서 설명합니다. FileZila 는 무료로 사용�
 상단의 폴더들을 707 권한으로 변경해주세요.
 
 > 권한 설정할 때 `하위 디렉터리로 이동`, `모든 파일과 디렉터리에 적용` 을 반드시 체크해 주세요.
+
+![&#xB2E4;&#xC911; &#xC120;&#xD0DD;&#xC740; &#xCEE8;&#xD2B8;&#xB864; &#xD0A4; + &#xB9C8;&#xC6B0;&#xC2A4; &#xC88C; &#xD074;&#xB9AD;&#xC744; &#xD558;&#xBA74; &#xD074;&#xB9AD;&#xD560; &#xC218; &#xC788;&#xC5B4;&#xC694;. &#xD55C;&#xBC88;&#xC5D0; &#xC5EC;&#xB7EC; &#xD3F4;&#xB354;&#xB97C; &#xD074;&#xB9AD;&#xD574;&#xC11C; &#xC27D;&#xAC8C;~](../../../.gitbook/assets/permission.gif)
 
 ## 웹 인스톨러 실행
 
