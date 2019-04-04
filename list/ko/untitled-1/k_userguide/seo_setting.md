@@ -23,9 +23,9 @@
 
 각각의 입력 항목이 무엇인지, 또는 어떻게 쓰이는지를 알려드려요.
 
-![\(&#xC67C;&#xCABD;\) &#xC0AC;&#xC774;&#xD2B8; &#xB300;&#xD45C; &#xC774;&#xBBF8;&#xC9C0;&#xAC00; &#xC788;&#xC744;&#xB54C;&#xC758; &#xC608;&#xC2DC;, \(&#xC624;&#xB978;&#xCABD;\) &#xC0AC;&#xC774;&#xD2B8; &#xB300;&#xD45C; &#xC774;&#xBBF8;&#xC9C0;&#xAC00; &#xC5C6;&#xC744;&#xB54C;&#xC758; &#xC608;&#xC2DC;](../../../.gitbook/assets/red_line.png)
+![\(&#xC67C;&#xCABD;\) &#xC0AC;&#xC774;&#xD2B8; &#xB300;&#xD45C; &#xC774;&#xBBF8;&#xC9C0;&#xAC00; &#xC788;&#xC744;&#xB54C;&#xC758; &#xC608;&#xC2DC;, \(&#xC624;&#xB978;&#xCABD;\) &#xC0AC;&#xC774;&#xD2B8; &#xB300;&#xD45C; &#xC774;&#xBBF8;&#xC9C0;&#xAC00; &#xC5C6;&#xC744;&#xB54C;&#xC758; &#xC608;&#xC2DC;](../../../../.gitbook/assets/red_line.png)
 
-![\(&#xC67C;&#xCABD;\) &#xBE0C;&#xB77C;&#xC6B0;&#xC800; &#xC81C;&#xBAA9;&#xC774; &#xC788;&#xC744;&#xB54C;&#xC758; &#xC608;&#xC2DC;, \(&#xC624;&#xB978;&#xCABD;\) &#xBE0C;&#xB77C;&#xC6B0;&#xC800; &#xC81C;&#xBAA9;&#xC774; &#xC5C6;&#xC744;&#xB54C;&#xC758; &#xC608;&#xC2DC;](../../../.gitbook/assets/browser_title.PNG)
+![\(&#xC67C;&#xCABD;\) &#xBE0C;&#xB77C;&#xC6B0;&#xC800; &#xC81C;&#xBAA9;&#xC774; &#xC788;&#xC744;&#xB54C;&#xC758; &#xC608;&#xC2DC;, \(&#xC624;&#xB978;&#xCABD;\) &#xBE0C;&#xB77C;&#xC6B0;&#xC800; &#xC81C;&#xBAA9;&#xC774; &#xC5C6;&#xC744;&#xB54C;&#xC758; &#xC608;&#xC2DC;](../../../../.gitbook/assets/browser_title.PNG)
 
-![&#xD30C;&#xB780;&#xC0C9;: &#xBA54;&#xD0C0;&#xD0DC;&#xADF8;&#xB97C; &#xC785;&#xB825;&#xD588;&#xC744;&#xB54C; &#xB098;&#xC624;&#xB294; &#xC608;&#xC2DC; &#xB178;&#xB780;&#xC0C9; : &#xBE0C;&#xB77C;&#xC6B0;&#xC800; &#xC81C;&#xBAA9; &amp; &#xBD80;&#xC81C;&#xBAA9; &amp; &#xC0AC;&#xC774;&#xD2B8; &#xC124;&#xBA85; &#xC608;&#xC2DC;](../../../.gitbook/assets/tag_image.png)
+![&#xD30C;&#xB780;&#xC0C9;: &#xBA54;&#xD0C0;&#xD0DC;&#xADF8;&#xB97C; &#xC785;&#xB825;&#xD588;&#xC744;&#xB54C; &#xB098;&#xC624;&#xB294; &#xC608;&#xC2DC; &#xB178;&#xB780;&#xC0C9; : &#xBE0C;&#xB77C;&#xC6B0;&#xC800; &#xC81C;&#xBAA9; &amp; &#xBD80;&#xC81C;&#xBAA9; &amp; &#xC0AC;&#xC774;&#xD2B8; &#xC124;&#xBA85; &#xC608;&#xC2DC;](../../../../.gitbook/assets/tag_image.png)
 

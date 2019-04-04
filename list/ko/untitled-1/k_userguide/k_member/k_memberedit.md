@@ -4,7 +4,7 @@
 
 회원 &gt; 회원 목록에서 관리자 인증 후 새 회원 추가를 통해 관리자가 수동으로 회원을 추가할 수 있습니다.
 
-![&#xC774;&#xD574;&#xB97C; &#xB3D5;&#xAE30; &#xC704;&#xD55C; GIF &#xC774;&#xBBF8;&#xC9C0;&#xB97C; &#xCCA8;&#xBD80; &#xD558;&#xC600;&#xC2B5;&#xB2C8;&#xB2E4;.](../../../../.gitbook/assets/member_add.gif)
+![&#xC774;&#xD574;&#xB97C; &#xB3D5;&#xAE30; &#xC704;&#xD55C; GIF &#xC774;&#xBBF8;&#xC9C0;&#xB97C; &#xCCA8;&#xBD80; &#xD558;&#xC600;&#xC2B5;&#xB2C8;&#xB2E4;.](../../../../../.gitbook/assets/member_add.gif)
 
 1. `회원 > 회원 목록` 클릭
 2. 관리자 인증 후 `새 회원 추가` 클릭
@@ -15,7 +15,7 @@
 
 회원 &gt; 회원 목록에서 `관리 탭의 삭제` 기능으로 회원을 수동 삭제할 수 있습니다. 회원 삭제는 아래 순서로 가능합니다.
 
-![&#xC0AD;&#xC81C;&#xD558;&#xACE0; &#xC2F6;&#xC740; &#xD68C;&#xC6D0;&#xC758; &#xCCB4;&#xD06C; &#xBC15;&#xC2A4;&#xB97C; &#xCCB4;&#xD06C;&#xD55C; &#xD6C4;, &#xC120;&#xD0DD; &#xC0AD;&#xC81C;&#xB97C; &#xD074;&#xB9AD;&#xD574;&#xC8FC;&#xC138;&#xC694; :\)](../../../../.gitbook/assets/member_delete.gif)
+![&#xC0AD;&#xC81C;&#xD558;&#xACE0; &#xC2F6;&#xC740; &#xD68C;&#xC6D0;&#xC758; &#xCCB4;&#xD06C; &#xBC15;&#xC2A4;&#xB97C; &#xCCB4;&#xD06C;&#xD55C; &#xD6C4;, &#xC120;&#xD0DD; &#xC0AD;&#xC81C;&#xB97C; &#xD074;&#xB9AD;&#xD574;&#xC8FC;&#xC138;&#xC694; :\)](../../../../../.gitbook/assets/member_delete.gif)
 
 1. 삭제할 회원의 왼쪽 체크 항목 체크
 2. 상단의 `선택 삭제` 클릭

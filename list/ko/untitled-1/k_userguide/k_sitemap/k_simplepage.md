@@ -4,11 +4,11 @@
 
 관리자 &gt; 사이트 맵&gt; 사이트 메뉴 편집에서 `아이템 추가` 기능으로 심플 페이지를 추가해서 사용합니다. 심플 페이지는 아래 순서로 가능합니다.
 
-![&#xC2EC;&#xD50C; &#xD398;&#xC774;&#xC9C0;&#xB3C4; &#xC2EC;-&#xD50C; &#xD558;&#xAC8C; &#xB9CC;&#xB4E4;&#xC5B4; &#xBD10;&#xC694;!](../../../../.gitbook/assets/simple_add.gif)
+![&#xC2EC;&#xD50C; &#xD398;&#xC774;&#xC9C0;&#xB3C4; &#xC2EC;-&#xD50C; &#xD558;&#xAC8C; &#xB9CC;&#xB4E4;&#xC5B4; &#xBD10;&#xC694;!](../../../../../.gitbook/assets/simple_add.gif)
 
 ## 심플 페이지를 삭제하는 방법
 
 관리자 &gt; 사이트 맵&gt; 사이트 메뉴 편집에서 `아이템 제거` 기능으로 심플 페이지를 삭제할 수 있습니다. 심플 페이지 삭제는 아래 순서로 가능합니다.
 
-![&#xC0AD;&#xC81C;&#xD558;&#xB294; &#xBC29;&#xBC95;&#xB3C4; &#xB9E4;&#xC6B0; &#xC2EC;-&#xD50C; &#xD569;&#xB2C8;&#xB2E4;.](../../../../.gitbook/assets/simple_del.gif)
+![&#xC0AD;&#xC81C;&#xD558;&#xB294; &#xBC29;&#xBC95;&#xB3C4; &#xB9E4;&#xC6B0; &#xC2EC;-&#xD50C; &#xD569;&#xB2C8;&#xB2E4;.](../../../../../.gitbook/assets/simple_del.gif)
 
